@@ -1,0 +1,19 @@
+{
+  "name": "js-statements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForrestWeiswolf/js-statements.git"
+  },
+  "author": "Forrest Weiswolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForrestWeiswolf/js-statements/issues"
+  },
+  "homepage": "https://github.com/ForrestWeiswolf/js-statements#readme"
+}
