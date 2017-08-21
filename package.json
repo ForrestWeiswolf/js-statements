@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/ForrestWeiswolf/js-statements/issues"
   },
-  "homepage": "https://github.com/ForrestWeiswolf/js-statements#readme"
+  "homepage": "https://github.com/ForrestWeiswolf/js-statements#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mkdir": "0.0.2",
+    "pg": "^7.1.2",
+    "pg-hstore": "^2.3.2",
+    "routes": "^2.1.0",
+    "sequelize": "^4.6.0"
+  }
 }
